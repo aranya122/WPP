@@ -1,0 +1,17 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: blanchedalmond;
+    color: black;
+}
+.container {
+    text-align: center;
+}
+.day{
+    font-size: 24px;
+    margin: 10px 0;
+}
